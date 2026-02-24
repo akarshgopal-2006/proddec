@@ -26,7 +26,7 @@ Built using Vanilla HTML, CSS, and JavaScript, featuring smooth animations, star
 
 🚀 Quick Start
 1️⃣ Clone the Repository
-git clone https://github.com/your-username/proddec-website.git
+git clone https://github.com/akarshgopal-2006/proddec-website.git
 2️⃣ Navigate into the Folder
 cd proddec-website
 3️⃣ Run the Project
