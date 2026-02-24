@@ -172,7 +172,7 @@ Save
 
 Live URL format:
 
-https://your-username.github.io/proddec-website/
+https://akarshgopal-2006.github.io/proddec-website/
 🤝 Contributing
 
 Contributions are welcome.
